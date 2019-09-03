@@ -58,3 +58,9 @@ captures/
 
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
+
+# Eclipse Core      
+.project
+
+# JDT-specific (Eclipse Java Development Tools)     
+.classpath
